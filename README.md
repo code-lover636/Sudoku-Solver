@@ -1,7 +1,7 @@
 # Sudoku-Solver
 This is my first project in git hub.
 
-Sudoku solver made with python and tkinter using bactracking and recursions.
+Sudoku solver made with python and tkinter using the concept of backtracking and recursion.
 
 About Sudoku:
 Sudoku is a grid of 9 rows and 9 columns. This is also divided into 9 sub-grids
