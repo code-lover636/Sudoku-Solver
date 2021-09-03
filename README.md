@@ -16,5 +16,6 @@ There is a dropdown menu on the top-left corner with three options.
 Select exit to quit screen.
 Select newgame for fresh blank grid.
 FILL THE GIVEN NUMBERS IN THE GRID, IN THE CORRECT PLACE AND SELECT SOLVE FROM DROP DOWN MENU. YOUR SUDOKU IS SOLVED!!!
+
 ![image](https://user-images.githubusercontent.com/77882744/131939985-295115b8-7ac2-4ab6-85d6-78be7841e29a.png)
 
