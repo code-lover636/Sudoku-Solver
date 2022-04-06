@@ -1,5 +1,5 @@
 # Sudoku-Solver
-This is my first project in git hub.
+
 
 Sudoku solver made with python and tkinter using the concept of backtracking and recursion.
 ![image](https://user-images.githubusercontent.com/77882744/131939879-aa38f62b-e7c8-4b98-a9ca-35dbe1e4b0a1.png)
