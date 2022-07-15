@@ -2,7 +2,7 @@
 
 ## Description
 This sudoku solver is made with python and tkinter using the concept of backtracking and recursion.
-The aim is to fill all boxes in the grid in such a manner that every row, column and sub-grid should have all numbers from 1 to 9.
+**Solves any sudoku**
 
 > Dropdown menu:
 > 1. Select newgame for a fresh blank grid.
